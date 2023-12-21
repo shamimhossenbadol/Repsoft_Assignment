@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "868607742717",
+    "project_id": "quiz-cash-148f8",
+    "storage_bucket": "quiz-cash-148f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868607742717:android:ecd10dcf866af804352494",
+        "android_client_info": {
+          "package_name": "com.innovata.quiz_cash"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRJOk9vNb-Jatkdtrcf91ybPM7KY9-Vl4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868607742717:android:32b50337b1c706dd352494",
+        "android_client_info": {
+          "package_name": "com.repsoft.assignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRJOk9vNb-Jatkdtrcf91ybPM7KY9-Vl4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
